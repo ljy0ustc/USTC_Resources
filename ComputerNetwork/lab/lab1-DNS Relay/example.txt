@@ -1,0 +1,8 @@
+0.0.0.0 pic1.zhimg.com
+0.0.0.0 pic2.zhimg.com
+0.0.0.0 pic3.zhimg.com
+0.0.0.0 pic4.zhimg.com
+0.0.0.0 static.zhimg.com
+0.0.0.0 picb.zhiming.com
+182.61.200.7 www.baidu.com
+127.0.0.1 www.test1.com
