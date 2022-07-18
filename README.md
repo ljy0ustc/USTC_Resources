@@ -23,6 +23,14 @@ Web信息处理与应用[USTC_Resources/WebInfo at main · ljy0ustc/USTC_Resourc
 
 ### 大三春
 
-数据库
+数据库系统及应用[USTC_Resources/Database at main · ljy0ustc/USTC_Resources (github.com)](https://github.com/ljy0ustc/USTC_Resources/tree/main/Database)
 
 （数据库实验[ljy0ustc/BankSystem: Lab for Database course, 2022spring （金培权老师数据库） (github.com)](https://github.com/ljy0ustc/BankSystem)）
+
+人工智能基础[USTC_Resources/ArtificialIntelligence at main · ljy0ustc/USTC_Resources (github.com)](https://github.com/ljy0ustc/USTC_Resources/tree/main/ArtificialIntelligence)
+
+计算机体系结构[USTC_Resources/ComputerArchitecture at main · ljy0ustc/USTC_Resources (github.com)](https://github.com/ljy0ustc/USTC_Resources/tree/main/ComputerArchitecture)
+
+并行计算[USTC_Resources/ParallelComputing at main · ljy0ustc/USTC_Resources (github.com)](https://github.com/ljy0ustc/USTC_Resources/tree/main/ParallelComputing)
+
+区块链[USTC_Resources/BlockChain at main · ljy0ustc/USTC_Resources (github.com)](https://github.com/ljy0ustc/USTC_Resources/tree/main/BlockChain)
